@@ -1,0 +1,78 @@
+﻿<Window x:Class="WSM.Server.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Windows服务监控（服务器端）" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <GroupBox Header="操作" Margin="3">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="6*"/>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="注册服务..." Margin="5" Width="100" Click="InstallClicked"/>
+                    <Button Content="清空监控列表" Margin="5" Width="80" Click="ClearMonitorClicked"/>
+                    <Button Content="开始监控" Margin="5" Width="80" Click="StartMonitorClicked"/>
+                    <Button Content="停止监控" Margin="5" Width="80" Click="StopMonitorClicked"/>
+                </StackPanel>
+                <DockPanel Grid.Row="1" Grid.Column="0" >
+                    <Label Content="请输入过滤条件：" VerticalAlignment="Center"  DockPanel.Dock="Left"></Label>
+                    <TextBox x:Name="TbFilter" Margin="5" VerticalAlignment="Center" DockPanel.Dock="Right" TextChanged="TbFilterChanged"/>
+                </DockPanel>
+                <GroupBox Header="已连接的客户端" Grid.Column="1" Grid.Row="0" Grid.RowSpan="2">
+                    <ListBox x:Name="lbClient"/>
+                </GroupBox>
+                <Label Grid.Column="2" Grid.Row="0" Grid.RowSpan="2" x:Name="lblStatus"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="监控服务列表" Grid.Column="1" Grid.Row="0" Grid.RowSpan="2" Margin="3">
+            <ListBox x:Name="lbMonitorService">
+                <ListBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="取消" Click="DelMonitorMenuClick"/>
+                    </ContextMenu>
+                </ListBox.ContextMenu>
+            </ListBox>
+        </GroupBox>
+        <GroupBox Header="服务列表" Grid.Column="0" Grid.Row="1" Margin="3">
+            <ListView x:Name="DgService"                  
+                     SelectionMode="Single" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="服务名称" Width="230">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock  Width="230" Text="{Binding ServiceName}">
+                                        <TextBlock.ContextMenu>
+                                            <ContextMenu>
+                                                <MenuItem Header="启动" Click="StartMenuClick"/>
+                                                <MenuItem Header="停止" Click="StopMenuClick"/>
+                                                <MenuItem Header="卸载" Click="UnInstallMenuClick"/>
+                                                <MenuItem Header="监控" Click="AddMonitorMenuClick"/>
+                                            </ContextMenu>
+                                        </TextBlock.ContextMenu>
+                                    </TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="显示名称"  Width="400" DisplayMemberBinding="{Binding DisplayName }"/>
+                        <GridViewColumn Header="状态"  Width="100" DisplayMemberBinding="{Binding Status}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </GroupBox>
+    </Grid>
+</Window>

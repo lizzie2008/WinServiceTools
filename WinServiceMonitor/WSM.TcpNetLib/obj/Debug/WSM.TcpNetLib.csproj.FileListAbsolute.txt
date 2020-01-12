@@ -1,0 +1,7 @@
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.TcpNetLib\bin\Debug\WSM.TcpNetLib.dll
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.TcpNetLib\bin\Debug\Gimela.Common.ExceptionHandling.dll
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.TcpNetLib\bin\Debug\Gimela.Common.Logging.dll
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.TcpNetLib\obj\Debug\WSM.TcpNetLib.csprojResolveAssemblyReference.cache
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.TcpNetLib\obj\Debug\WSM.TcpNetLib.dll
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.TcpNetLib\bin\Debug\WSM.TcpNetLib.pdb
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.TcpNetLib\obj\Debug\WSM.TcpNetLib.pdb

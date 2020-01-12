@@ -1,0 +1,2 @@
+E:\01.Projects\99.MySelf\WinServiceMonitor\WinServiceMonitor\bin\Debug\WinServiceMonitor.exe.config
+E:\01.Projects\99.MySelf\WinServiceMonitor\WinServiceMonitor\bin\Debug\WinServiceMonitor.Server.exe.config

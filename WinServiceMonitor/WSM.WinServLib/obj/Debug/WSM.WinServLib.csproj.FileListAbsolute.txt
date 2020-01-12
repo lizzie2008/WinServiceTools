@@ -1,0 +1,10 @@
+E:\01.Projects\99.MySelf\WinServiceMonitor\WSM.WinServLib\bin\Debug\WSM.WinServLib.dll
+E:\01.Projects\99.MySelf\WinServiceMonitor\WSM.WinServLib\bin\Debug\WSM.WinServLib.pdb
+E:\01.Projects\99.MySelf\WinServiceMonitor\WSM.WinServLib\obj\Debug\WSM.WinServLib.csprojResolveAssemblyReference.cache
+E:\01.Projects\99.MySelf\WinServiceMonitor\WSM.WinServLib\obj\Debug\WSM.WinServLib.dll
+E:\01.Projects\99.MySelf\WinServiceMonitor\WSM.WinServLib\obj\Debug\WSM.WinServLib.pdb
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.WinServLib\bin\Debug\WSM.WinServLib.dll
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.WinServLib\obj\Debug\WSM.WinServLib.csprojResolveAssemblyReference.cache
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.WinServLib\obj\Debug\WSM.WinServLib.dll
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.WinServLib\bin\Debug\WSM.WinServLib.pdb
+E:\01.Projects\98.MySelf\WinServiceMonitor\WSM.WinServLib\obj\Debug\WSM.WinServLib.pdb

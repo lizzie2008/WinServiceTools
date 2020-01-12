@@ -1,0 +1,723 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\WinService.Purchase\bin\Debug\WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.Purchase.WinService\bin\Debug\Erp.Purchase.WinService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Debug\Erp.WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Debug\Erp.WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Debug\Erp.WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Debug\Erp.WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Stocktaking\bin\Release\Erp.WinService.Stocktaking.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Stocktaking\bin\Release\Erp.WinService.Stocktaking.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Stocktaking\bin\Release\Erp.WinService.Stocktaking.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Stocktaking\bin\Release\Erp.WinService.Stocktaking.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Stocktaking\bin\Release\Erp.WinService.Stocktaking.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Stocktaking\bin\Release\Erp.WinService.Stocktaking.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Debug\Erp.WinService.Audit.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Debug\Erp.WinService.Audit.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Debug\Erp.WinService.Audit.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Debug\Erp.WinService.Audit.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Debug\Erp.WinService.OnShelf.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Debug\Erp.WinService.OnShelf.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Debug\Erp.WinService.OnShelf.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Debug\Erp.WinService.OnShelf.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Debug\Erp.WinService.OnShelf.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Debug\Erp.WinService.OnShelf.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Debug\Erp.WinService.Audit.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Debug\Erp.WinService.Audit.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Debug\Erp.WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Debug\Erp.WinService.Purchase.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Release\Erp.WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Release\Erp.WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Release\Erp.WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Release\Erp.WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Release\Erp.WinService.OnShelf.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Release\Erp.WinService.OnShelf.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Release\Erp.WinService.OnShelf.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Release\Erp.WinService.OnShelf.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Release\Erp.WinService.Audit.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Release\Erp.WinService.Audit.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Release\Erp.WinService.Audit.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Audit\bin\Release\Erp.WinService.Audit.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Release\Erp.WinService.AuditComplete.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Release\Erp.WinService.AuditComplete.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Release\Erp.WinService.AuditComplete.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Release\Erp.WinService.AuditComplete.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Release\Erp.WinService.OnShelf.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Release\Erp.WinService.OnShelf.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Release\Erp.WinService.OnShelf.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.OnShlef\bin\Release\Erp.WinService.OnShelf.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Release\Erp.WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Release\Erp.WinService.Purchase.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Release\Erp.WinService.Purchase.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.Purchase\bin\Release\Erp.WinService.Purchase.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已标记为删除。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Debug\Erp.WinService.AuditComplete.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Debug\Erp.WinService.AuditComplete.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: 指定的服务已存在。
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Debug\Erp.WinService.AuditComplete.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Debug\Erp.WinService.AuditComplete.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Debug\Erp.WinService.AuditComplete.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Debug\Erp.WinService.AuditComplete.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Debug\Erp.WinService.AuditComplete.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Inventory\Erp.WinService.AuditComplete\bin\Debug\Erp.WinService.AuditComplete.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Release\Erp.Goods.WinService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.exe assembly's progress.
+The file is located at E:\SVN_Projects\01_Erp_Code\Erp.Goods\Erp.Goods.WinService\bin\Debug\Erp.Goods.WinService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
